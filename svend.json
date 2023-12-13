@@ -1,0 +1,28 @@
+{
+    "accountfile": "svend\/account.hibon",
+    "addr": "http:\/\/0.0.0.0:8080",
+    "billsfile": "svend\/bills.hibon",
+    "contract_address": "abstract:\/\/Node_0_CONTRACT_NEUEWELLE",
+    "contract_shell_endpoint": "\/api\/v1\/contract",
+    "contractfile": "contract.hibon",
+    "dart_address": "abstract:\/\/Node_0_DART_NEUEWELLE",
+    "dart_shell_endpoint": "\/api\/v1\/dart",
+    "devicefile": "svend\/device.hibon",
+    "faucet_shell_endpoint": "\/api\/v1\/invoice2pay",
+    "paymentrequestsfile": "svend\/paymentrequests.hibon",
+    "port": 10800,
+    "questions": [
+        "What is your favorite book?",
+        "What is the name of the road you grew up on?",
+        "What is your mother’s maiden name?",
+        "What was the name of your first\/current\/favorite pet?",
+        "What was the first company that you worked for?",
+        "Where did you meet your spouse?",
+        "Where did you go to high school\/college?",
+        "What is your favorite food?",
+        "What city were you born in?",
+        "Where is your favorite place to vacation?"
+    ],
+    "quizfile": "svend\/quiz.hibon",
+    "walletfile": "svend\/wallet.hibon"
+}

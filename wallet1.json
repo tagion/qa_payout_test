@@ -1,0 +1,17 @@
+{
+    "accountfile": "wallet1\/account.hibon",
+    "addr": "http:\/\/0.0.0.0:8080",
+    "billsfile": "wallet1\/bills.hibon",
+    "contract_address": "abstract:\/\/Node_0_CONTRACT_NEUEWELLE",
+    "contract_shell_endpoint": "\/api\/v1\/contract",
+    "contractfile": "contract.hibon",
+    "dart_address": "abstract:\/\/Node_0_DART_NEUEWELLE",
+    "dart_shell_endpoint": "\/api\/v1\/dart",
+    "devicefile": "wallet1\/device.hibon",
+    "faucet_shell_endpoint": "\/api\/v1\/invoice2pay",
+    "paymentrequestsfile": "wallet1\/paymentrequests.hibon",
+    "port": 10800,
+    "questions": [],
+    "quizfile": "wallet1\/quiz.hibon",
+    "walletfile": "wallet1\/wallet.hibon"
+}
