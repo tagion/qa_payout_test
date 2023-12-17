@@ -1,1 +1,14 @@
-{"$@":"HiRPC","$Y":["*","@AuWMp1B15obvKYiRNUKYDq1cuSZzTAqUMVmhW-WgjfVQ"],"$msg":{"method":"dartCheckRead","params":{"dart_indices":[["*","@4_xSenlMlaTZUe1vK_668qwSFFPOkrpLdUzHK9PhgnY="],["*","@WY3EqKYG_jdlloNMB9BvSwp-Vo1XWfE-N_XWUh0uj3o="]]}},"$sign":["*","@aQbmRtmSx5SypSU3jEHzCpkMG_yMdzgexTOo4CcedZzg7YV6aWbuBTvcXHZOvfRYP_R7T-Q8Wo1HTpqgiSqm0Q=="]}
+{
+    "$@": "HiRPC",
+    "$msg": {
+        "method": "dartCheckRead",
+        "params": {
+            "dart_indices": [
+                [
+                    "*",
+                    "@Tnfsl94fgrsFgU_mTrfZ-wGmu0bNPnD_7oJN2WAop9w="
+                ]
+            ]
+        }
+    }
+}
