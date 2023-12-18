@@ -1,0 +1,14 @@
+{
+    "$@": "HiRPC",
+    "$msg": {
+        "method": "dartCheckRead",
+        "params": {
+            "dart_indices": [
+                [
+                    "*",
+                    "@Tnfsl94fgrsFgU_mTrfZ-wGmu0bNPnD_7oJN2WAop9w="
+                ]
+            ]
+        }
+    }
+}
